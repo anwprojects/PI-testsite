@@ -10,11 +10,8 @@
 .map-responsive{
 
     overflow:hidden;
-
     padding-bottom:40%;
-
     position:relative;
-
     height:0;
 
 }
@@ -22,19 +19,15 @@
 .map-responsive iframe{
 
     left:0;
-
     top:0;
-
     height:100%;
-
     width:100%;
-
     position:absolute;
 
 }
 
 .video-container {
-  height: 400px;
+  height: 700px;
   /* width: 300px; */
   overflow: hidden;
   position: relative;
@@ -53,6 +46,7 @@
 .video-container .caption {
   z-index: 1;
   position: relative;
+  top: 30%;
   text-align: center;
   color: #dc0000;
   padding: 10px;
